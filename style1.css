@@ -1,0 +1,122 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+    
+#sobre1{
+    margin-left: 80%;
+    
+}
+
+.bar ul li{
+  display: inline-block;
+  padding-right: 8px;
+
+
+}
+#bar-item{
+padding-right: 80%;
+
+}
+.bar{
+    background: rgb(107, 106, 106);
+    padding: 25px;
+    color: aliceblue;
+}
+.imagem{
+text-align: center;
+padding-bottom: 50px;
+padding-top: 120px;
+background-color: rgb(240, 226, 226);
+}
+body{
+    display: flexbox;
+    
+}
+
+
+#foto{
+border-radius: 50%;
+
+
+}
+
+
+.formulario{
+  
+    margin-top: 50px;
+    justify-content: center;
+    justify-items: center;
+    border: none;
+padding: 10px;
+border-radius: 50px;
+display: flex;
+margin-left: 50px;
+margin-right: 70px;
+
+}
+.block-inputs{
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    border: none;
+padding-bottom: 20px;
+margin: 40px;
+margin-left: 60px;
+border: 2px solid rgb(143, 142, 142) ;
+padding-right: 50px;
+padding-left: 40px;
+border-radius:5% ;
+
+}
+#butao{
+    border-radius: 10px;
+    margin-top: 40px;
+    cursor: pointer;
+background-color: purple;
+border: none;
+padding: 10px;
+padding-left: 23px;
+padding-right: 20px;
+text-align: center;
+
+
+}
+input{
+margin: 30px;
+border: solid;
+padding: 3px;
+
+}
+#footer{
+    background: rgb(99, 97, 97);
+    margin-top: 50%;
+    padding: 30px;
+
+}
+#feed-area{
+margin-right: 1px;
+width: 203px;
+height: 128px;
+}
+.titles{
+   margin-top: 40px;
+   background-color: blueviolet;
+
+}
+button:hover{
+color: blue ;
+}
+.button-block{
+    margin: 0px;
+}
+#bio{
+margin-top: 16px;
+}
+.bar a:hover{
+    color: white;
+    position: relative;
+
+
+    
+}
